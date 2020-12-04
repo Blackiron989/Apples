@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplestring"
+        },
+        "title": { 
+            "translate": "String Apple"
+        },
+        "description": {
+            "translate": "All tied up."
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplestring"
+                    }
+                ]
+            }
+        }
+    }
+}

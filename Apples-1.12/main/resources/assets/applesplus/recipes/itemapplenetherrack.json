@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:netherrack",
+			"data": 0
+        },
+        "a":
+        {
+            "item": "minecraft:apple",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "applesplus:itemAppleNetherrack",
+		"data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "applesplus:itemAppleDiamond",
+			"data": 0
+		},
+		{
+			"item": "applesplus:itemAppleRuby",
+			"data": 0
+		},
+		{
+			"item": "applesplus:itemAppleLapisLazuli",
+			"data": 0
+		},
+		{
+			"item": "applesplus:itemAppleEmerald",
+			"data": 0
+		},
+		{
+			"item": "applesplus:itemMug",
+			"data": 0
+		}
+	],
+    "result":
+    {
+        "item": "applesplus:itemMugMagic",
+		"data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemappleinvisible"
+        },
+        "title": { 
+            "translate": "Glass Apple"
+        },
+        "description": {
+            "translate": "The sweet taste of oral evisceration."
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemappleinvisible"
+                    }
+                ]
+            }
+        }
+    }
+}

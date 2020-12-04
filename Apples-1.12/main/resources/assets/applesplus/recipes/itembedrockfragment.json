@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "applesplus:itemBedrockFragment",
+			"data": 0
+        },
+        "a":
+        {
+            "item": "applesplus:itemMugMagic",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:bedrock",
+		"data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplecactus"
+        },
+        "title": { 
+            "translate": "Cactus Apple"
+        },
+        "description": {
+            "translate": "Cactus Juice"
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplecactus"
+                    }
+                ]
+            }
+        }
+    }
+}

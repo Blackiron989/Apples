@@ -1,0 +1,18 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "particle": "blocks/bedrock"
+        },
+        "model": "applesplus:bedrockore",
+        "uvlock": false
+    },
+    "variants": {
+        "normal": [{
+
+        }],
+        "inventory": [{
+            
+        }]
+    }
+}

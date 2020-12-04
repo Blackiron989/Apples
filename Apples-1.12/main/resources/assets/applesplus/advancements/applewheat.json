@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplewheat"
+        },
+        "title": { 
+            "translate": "Wheat Apple"
+        },
+        "description": {
+            "translate": "Eight grains and not an apple more!"
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplewheat"
+                    }
+                ]
+            }
+        }
+    }
+}

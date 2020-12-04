@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplebook"
+        },
+        "title": { 
+            "translate": "Book Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplebook"
+                    }
+                ]
+            }
+        }
+    }
+}

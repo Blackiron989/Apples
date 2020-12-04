@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        " a",
+        " a"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "applesplus:itemRuby",
+			"data": 0
+        },
+        "a":
+        {
+            "item": "minecraft:stick",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "applesplus:itemRubyHoe",
+		"data": 0,
+        "count": 1
+    }
+}

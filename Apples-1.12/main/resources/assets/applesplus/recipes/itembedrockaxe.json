@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xa",
+        " a"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:bedrock",
+			"data": 0
+        },
+        "a":
+        {
+            "item": "minecraft:stick",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "applesplus:itemBedrockAxe",
+		"data": 0,
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemappleminecart"
+        },
+        "title": { 
+            "translate": "Minecart Apple"
+        },
+        "description": {
+            "translate": "Does not mine nor cart!"
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemappleminecart"
+                    }
+                ]
+            }
+        }
+    }
+}

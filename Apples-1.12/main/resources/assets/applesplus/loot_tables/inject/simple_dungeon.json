@@ -1,0 +1,49 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "applesplus:itemAppleNog",
+                    "weight": 16
+                },
+				{
+                    "type": "item",
+                    "name": "applesplus:itemAppleBat",
+                    "weight": 16
+                },
+				{
+                    "type": "item",
+                    "name": "applesplus:itemAppleHeart",
+                    "weight": 16
+                },
+				{
+                    "type": "item",
+                    "name": "applesplus:itemAppleCursed",
+                    "weight": 16
+                },
+				{
+                    "type": "item",
+                    "name": "applesplus:itemAppleChain",
+                    "weight": 10
+                },
+                {
+                    "type": "item",
+                    "name": "applesplus:itemAppleSteve",
+                    "weight": 10
+                },
+				{
+                    "type": "item",
+                    "name": "applesplus:itemBedrockFragment",
+                    "weight": 6
+                },
+                {
+                    "type": "empty",
+                    "weight": 10
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "minecraft:apple",
+			"data": 0
+		},
+		{
+			"item": "minecraft:water_bucket",
+			"data": 0
+		},
+		{
+			"item": "applesplus:itemMug",
+			"data": 0
+		}
+	],
+    "result":
+    {
+        "item": "applesplus:itemAppleJuice",
+		"data": 0,
+        "count": 1
+    }
+}

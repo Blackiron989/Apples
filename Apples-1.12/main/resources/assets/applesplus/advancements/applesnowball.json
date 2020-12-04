@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplesnowball"
+        },
+        "title": { 
+            "translate": "Snowball Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplesnowball"
+                    }
+                ]
+            }
+        }
+    }
+}

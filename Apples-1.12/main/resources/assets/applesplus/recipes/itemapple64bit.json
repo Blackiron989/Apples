@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "applesplus:itemAppleApple",
+			"data": 0
+		}
+	],
+    "result":
+    {
+        "item": "applesplus:itemApple64Bit",
+		"data": 0,
+        "count": 1
+    }
+}

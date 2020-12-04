@@ -1,0 +1,18 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "textures": {
+            "particle": "blocks/stone"
+        },
+        "model": "applesplus:rubyore",
+        "uvlock": false
+    },
+    "variants": {
+        "normal": [{
+
+        }],
+        "inventory": [{
+            
+        }]
+    }
+}

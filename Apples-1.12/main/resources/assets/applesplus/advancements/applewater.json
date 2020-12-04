@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "applesplus:itemapplewater"
+        },
+        "title": { 
+            "translate": "Water Apple"
+        },
+        "description": {
+            "translate": "Apple liquidation"
+        },
+        "show_toast": true
+    },
+    "parent": "applesplus:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "applesplus:itemapplewater"
+                    }
+                ]
+            }
+        }
+    }
+}
