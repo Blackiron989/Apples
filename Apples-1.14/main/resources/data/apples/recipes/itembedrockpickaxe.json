@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        " a ",
+        " a "
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:bedrock"
+        },
+        "a":
+        {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itembedrockpickaxe",
+        "count": 1
+    }
+}

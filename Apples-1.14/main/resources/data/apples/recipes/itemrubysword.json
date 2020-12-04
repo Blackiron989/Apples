@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "x",
+        "x",
+        "a"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "apples:itemruby"
+        },
+        "a":
+        {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemrubysword",
+        "count": 1
+    }
+}

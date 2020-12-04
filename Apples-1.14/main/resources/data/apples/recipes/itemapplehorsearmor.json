@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        [
+			{
+			
+				"item": "minecraft:golden_horse_armor"
+			
+			},
+			{
+			
+				"item": "minecraft:diamond_horse_armor"
+			
+			},
+			{
+			
+				"item": "minecraft:iron_horse_armor"
+			
+			}
+        ],
+        "a":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemapplehorsearmor",
+        "count": 1
+    }
+}

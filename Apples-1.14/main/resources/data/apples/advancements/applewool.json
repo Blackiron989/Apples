@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplewool"
+        },
+        "title": { 
+            "translate": "Wool Apple"
+        },
+        "description": {
+            "translate": "Stop the wooly bully!"
+        },
+        "show_toast": true
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplewool"
+                    }
+                ]
+            }
+        }
+    }
+}

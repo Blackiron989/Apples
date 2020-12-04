@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        [
+			{
+				"item": "minecraft:cod"
+			},
+			{
+				"item": "minecraft:salmon"
+			}
+        ],
+        "a":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemapplefish",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplebread"
+        },
+        "title": { 
+            "translate": "Bread Apple"
+        },
+        "description": {
+            "translate": "Got that bread."
+        },
+        "show_toast": true
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplebread"
+                    }
+                ]
+            }
+        }
+    }
+}

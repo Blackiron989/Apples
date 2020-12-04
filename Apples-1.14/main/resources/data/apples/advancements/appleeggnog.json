@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemappleeggnog"
+        },
+        "title": { 
+            "translate": "Eggnog Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemappleeggnog"
+                    }
+                ]
+            }
+        }
+    }
+}

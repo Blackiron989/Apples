@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+			"item": "minecraft:anvil"
+        },
+        "a":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemappleanvil",
+        "count": 1
+    }
+}
