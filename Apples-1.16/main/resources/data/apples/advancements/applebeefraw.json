@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplebeefraw"
+        },
+        "title": { 
+            "translate": "Raw Beef Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplebeefraw"
+                    }
+                ]
+            }
+        }
+    }
+}

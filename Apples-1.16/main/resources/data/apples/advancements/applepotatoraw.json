@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplepotatoraw"
+        },
+        "title": { 
+            "translate": "Potato Apple"
+        },
+        "description": {
+            "translate": "Potatoe"
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplepotatoraw"
+                    }
+                ]
+            }
+        }
+    }
+}

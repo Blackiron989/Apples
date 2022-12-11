@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapple8bit"
+        },
+        "title": { 
+            "translate": "8 Bit Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapple8bit"
+                    }
+                ]
+            }
+        }
+    }
+}

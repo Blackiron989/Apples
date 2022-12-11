@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "apples:itemapplebat",
+                    "weight": 50
+                },
+				{
+                    "type": "item",
+                    "name": "apples:itemapplecobweb",
+                    "weight": 25
+                },
+				{
+					"type": "item",
+                    "name": "apples:itemappleloot",
+                    "weight": 15
+				},
+                {
+                    "type": "empty",
+                    "weight": 10
+                }
+            ]
+        }
+    ]
+}

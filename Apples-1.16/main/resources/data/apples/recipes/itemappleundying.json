@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+			"item": "minecraft:totem_of_undying"
+        },
+        "a":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemappleundying",
+        "count": 1
+    }
+}

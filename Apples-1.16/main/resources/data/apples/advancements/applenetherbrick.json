@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplenetherbrick"
+        },
+        "title": { 
+            "translate": "Nether Brick Apple"
+        },
+        "description": {
+            "translate": "Try it raw!"
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplenetherbrick"
+                    }
+                ]
+            }
+        }
+    }
+}

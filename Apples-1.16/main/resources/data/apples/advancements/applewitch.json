@@ -1,0 +1,28 @@
+{
+	"parent": "apples:root",
+    "display": {
+        "icon": {
+            "item": "apples:itemapplewitch"
+        },
+        "title": { 
+            "translate": "Witch Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplewitch"
+                    }
+                ]
+            }
+        }
+    }
+}

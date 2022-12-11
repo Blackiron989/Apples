@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplelava"
+        },
+        "title": { 
+            "translate": "Lava Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplelava"
+                    }
+                ]
+            }
+        }
+    }
+}

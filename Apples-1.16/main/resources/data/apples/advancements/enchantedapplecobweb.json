@@ -1,0 +1,28 @@
+{
+	"parent": "apples:applecobweb",
+    "display": {
+        "icon": {
+            "item": "apples:itemenchantedapplecobweb"
+        },
+        "title": { 
+            "translate": "Enchanted Cobweb Apple"
+        },
+        "description": {
+            "translate": ""
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemenchantedapplecobweb"
+                    }
+                ]
+            }
+        }
+    }
+}

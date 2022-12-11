@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "apples:itemapplemelonblock"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemapplemelonslice",
+        "count": 3
+    }
+}

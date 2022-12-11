@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplesteve"
+        },
+        "title": { 
+            "translate": "Steve Apple"
+        },
+        "description": {
+            "translate": "01010011 01110100 01100101 01110110 01100101"
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplesteve"
+                    }
+                ]
+            }
+        }
+    }
+}

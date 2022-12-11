@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+	
+		"item": "apples:itemrubyaxe"
+	
+	},
+	"addition": {
+	
+		"item": "minecraft:netherite_ingot"
+	
+	},
+    "result":
+    {
+        "item": "minecraft:netherite_axe"
+    }
+}

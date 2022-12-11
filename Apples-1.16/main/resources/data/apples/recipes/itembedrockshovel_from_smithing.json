@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+	
+		"item": "minecraft:netherite_shovel"
+	
+	},
+	"addition": {
+	
+		"item": "minecraft:bedrock"
+	
+	},
+    "result":
+    {
+        "item": "apples:itembedrockshovel"
+    }
+}

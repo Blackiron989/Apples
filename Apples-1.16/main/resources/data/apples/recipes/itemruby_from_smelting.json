@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient":
+    {
+        "item": "apples:rubyore"
+    },
+    "result": "apples:itemruby",
+	"experience": 0.5,
+	"cookingtime": 200
+}

@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "apples:itemapplenetherrack"
+        },
+        "title": { 
+            "translate": "Netherrack Apple"
+        },
+        "description": {
+            "translate": "Try it roasted!"
+        },
+        "show_toast": true,
+        "hidden": false
+    },
+    "parent": "apples:root",
+    "criteria": {
+        "root": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "apples:itemapplenetherrack"
+                    }
+                ]
+            }
+        }
+    }
+}
