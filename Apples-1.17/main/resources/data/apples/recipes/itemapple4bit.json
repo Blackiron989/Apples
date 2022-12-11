@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "apples:itemapple8bit"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemapple4bit",
+        "count": 2
+    }
+}

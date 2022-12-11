@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"item": "minecraft:bowl"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemapplesauce",
+        "count": 1
+    }
+}

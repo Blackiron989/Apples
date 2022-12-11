@@ -1,0 +1,48 @@
+modLoader="javafml" #mandatory
+
+license="GNU General Public License"
+
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+
+modId="apples" #mandatory
+
+# The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
+version="2.5" #mandatory
+
+displayName="Apples+" #mandatory
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="https://www.curseforge.com/minecraft/mc-mods/apples-plus" #optional
+
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="logo.png" #optional
+
+# A text field displayed in the mod UI
+authors="Blackiron989, NoNamedEnderMan" #optional
+
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+This mod adds a bunch of new apples to the game, many of which have custom effects.
+'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.examplemod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[28,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.17.1]"
+    ordering="NONE"
+    side="BOTH"

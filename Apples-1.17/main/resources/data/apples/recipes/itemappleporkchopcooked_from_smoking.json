@@ -1,0 +1,15 @@
+{
+
+	"type": "minecraft:smoking",
+	
+	"ingredient": {
+	
+		"item": "apples:itemappleporkchopraw"
+	
+	},
+	
+	"result": "apples:itemappleporkchopcooked",
+	"experience": 0.5,
+	"cookingtime": 100
+
+}

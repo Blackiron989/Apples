@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        [
+			{
+				"item": "minecraft:pumpkin"
+			},
+			{
+				"item": "minecraft:carved_pumpkin"
+			}
+		],
+        "a":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemapplepumpkin",
+        "count": 1
+    }
+}

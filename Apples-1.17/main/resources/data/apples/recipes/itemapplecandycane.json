@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "apples:itemapplecandy"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemapplecandycane",
+        "count": 1
+    }
+}

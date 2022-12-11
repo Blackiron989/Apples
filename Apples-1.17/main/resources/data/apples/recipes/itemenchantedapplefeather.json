@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "apples:itemapplefeather"
+		},
+		{
+			"item": "apples:itemmugmagic"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemenchantedapplefeather",
+        "count": 1
+    }
+}

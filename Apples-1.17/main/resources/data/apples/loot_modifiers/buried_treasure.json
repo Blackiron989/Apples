@@ -1,0 +1,34 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/buried_treasure"
+		}
+	],
+	"type": "apples:buried_treasure",
+    "entries": [
+        {
+            "name": "apples:itemappleexp",
+            "weight": 15
+        },
+		{
+            "name": "apples:itemappleheart",
+            "weight": 15
+        },
+		{
+            "name": "apples:itemappleloot",
+            "weight": 15
+		},
+		{
+            "name": "apples:itemappledolphin",
+            "weight": 15
+		},
+		{
+            "name": "apples:itemruby",
+            "weight": 15
+        },
+        {
+            "weight": 25
+        }
+    ]
+}

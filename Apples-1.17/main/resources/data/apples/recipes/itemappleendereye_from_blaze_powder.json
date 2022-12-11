@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xxx",
+        "xax",
+        "xxx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        "a":
+        {
+            "item": "apples:itemappleenderpearl"
+        }
+    },
+    "result":
+    {
+        "item": "apples:itemappleendereye",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+		{
+			"item": "apples:itemapplewitherskull"
+		},
+		{
+			"item": "apples:itemmugmagic"
+		}
+	],
+    "result":
+    {
+        "item": "apples:itemenchantedapplewitherskull",
+        "count": 1
+    }
+}

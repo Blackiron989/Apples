@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/woodland_mansion"
+		}
+	],
+	"type": "apples:woodland_mansion",
+    "entries": [
+        {
+            "name": "apples:itemapplerecord",
+            "weight": 30
+        },
+		{
+            "name": "apples:itemapplewitch",
+            "weight": 30
+        },
+		{
+            "name": "apples:itemappleloot",
+            "weight": 30
+        },
+        {
+            "weight": 10
+        }
+    ]
+}

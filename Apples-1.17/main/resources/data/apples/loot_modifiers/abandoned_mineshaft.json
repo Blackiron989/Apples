@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/abandoned_mineshaft"
+		}
+	],
+	"type": "apples:abandoned_mineshaft",
+    "entries": [
+		{
+			"name": "apples:itemapplebat",
+			"weight": 50
+		},
+		{
+			"name": "apples:itemapplecobweb",
+			"weight": 25
+		},
+		{
+			"name": "apples:itemappleloot",
+			"weight": 15
+		},
+		{
+			"weight": 10
+		}
+	]
+}
