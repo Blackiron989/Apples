@@ -1,0 +1,18 @@
+{
+	"name": "Milk Apple",
+	"icon": "apples:itemapplemilk",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplemilk",
+			"link_recipe": true,
+			"text": "The Milk Apple clears all potion effects."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplemilk",
+			"text": ""
+		}
+	]
+}

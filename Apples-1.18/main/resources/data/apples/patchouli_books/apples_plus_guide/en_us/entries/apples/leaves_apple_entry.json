@@ -1,0 +1,18 @@
+{
+	"name": "Leaves Apple",
+	"icon": "apples:itemappleleaves",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleleaves",
+			"link_recipe": true,
+			"text": "The Leaves Apple destroys leaf blocks around the player."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleleaves",
+			"text": ""
+		}
+	]
+}

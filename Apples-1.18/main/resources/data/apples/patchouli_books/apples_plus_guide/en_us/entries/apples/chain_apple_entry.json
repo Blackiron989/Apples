@@ -1,0 +1,18 @@
+{
+	"name": "Chain Apple",
+	"icon": "apples:itemapplechain",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplechain",
+			"link_recipe": true,
+			"text": "The Chain Apple applies protection."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplechain",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "Bat Apple",
+	"icon": "apples:itemapplebat",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebat",
+			"link_recipe": true,
+			"text": "The Bat Apple spawns a bat and sets the player to riding it."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Bat Apple can be found in loot chests."
+		}
+	]
+}

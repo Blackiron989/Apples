@@ -1,0 +1,17 @@
+{
+	"name": "Zombie Apple",
+	"icon": "apples:itemapplezombie",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplezombie",
+			"link_recipe": true,
+			"text": "The Zombie Apple spawns zombies when the player is attacked."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Zombie Apple can be found in loot chests."
+		}
+	]
+}

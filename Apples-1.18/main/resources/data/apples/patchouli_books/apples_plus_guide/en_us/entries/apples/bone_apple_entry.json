@@ -1,0 +1,18 @@
+{
+	"name": "Bone Apple",
+	"icon": "apples:itemapplebone",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebone",
+			"link_recipe": true,
+			"text": "The Bone Apple bonemeals the area around the player."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebone",
+			"text": ""
+		}
+	]
+}

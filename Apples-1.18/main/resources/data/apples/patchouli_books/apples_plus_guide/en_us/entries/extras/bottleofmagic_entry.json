@@ -1,0 +1,18 @@
+{
+	"name": "Bottle of Magic",
+	"icon": "apples:itemmugmagic",
+	"category": "apples:extras_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemmugmagic",
+			"link_recipe": true,
+			"text": "The Bottle of Magic is used to craft the enchanted variants of apples as well as attain ruby and bedrock fragments.  It may have other mysterious purposes as well."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemmugmagic",
+			"text": "Bottle of Magic is crafted in the brewing stand. Diamond, Ruby, or Emerald Apple on top with any potion on the bottom."
+		}
+	]
+}

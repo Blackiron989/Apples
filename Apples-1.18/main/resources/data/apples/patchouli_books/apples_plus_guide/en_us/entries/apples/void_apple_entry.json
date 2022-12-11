@@ -1,0 +1,17 @@
+{
+	"name": "Void Apple",
+	"icon": "apples:itemapplevoid",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplevoid",
+			"link_recipe": true,
+			"text": "The Void Apple teleports the player to below y = 0."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Void Apple is created by using a bottle apple in the void."
+		}
+	]
+}

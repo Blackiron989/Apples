@@ -1,0 +1,26 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/nether_bridge"
+		}
+	],
+	"type": "apples:nether_bridge",
+    "entries": [
+        {
+            "name": "apples:itemapplecursed",
+            "weight": 30
+        },
+		{
+            "name": "apples:itemapplepresent",
+            "weight": 30
+        },
+		{
+            "name": "apples:applepieitem",
+            "weight": 20
+        },
+        {
+            "weight": 20
+        }
+    ]
+}

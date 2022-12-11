@@ -1,0 +1,17 @@
+{
+	"name": "Steve Apple",
+	"icon": "apples:itemapplesteve",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplesteve",
+			"link_recipe": true,
+			"text": "It's Apple Steve!"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Steve Apple can be found in loot chests."
+		}
+	]
+}

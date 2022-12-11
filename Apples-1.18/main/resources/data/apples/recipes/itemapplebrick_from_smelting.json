@@ -1,0 +1,15 @@
+{
+
+	"type": "minecraft:smelting",
+	
+	"ingredient": {
+	
+		"item": "apples:itemappleclay"
+	
+	},
+	
+	"result": "apples:itemapplebrick",
+	"experience": 0.5,
+	"cookingtime": 200
+
+}

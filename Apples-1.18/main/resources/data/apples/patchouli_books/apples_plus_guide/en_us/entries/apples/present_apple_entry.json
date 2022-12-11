@@ -1,0 +1,17 @@
+{
+	"name": "Present Apple",
+	"icon": "apples:itemapplepresent",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepresent",
+			"link_recipe": true,
+			"text": "The Present Apple spawns a random apple based off of the current (IRL) month."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Present Apple can be found in loot chests."
+		}
+	]
+}

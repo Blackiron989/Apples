@@ -1,0 +1,18 @@
+{
+	"name": "Minecart Apple",
+	"icon": "apples:itemappleminecart",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleminecart",
+			"link_recipe": true,
+			"text": "The Minecart Apple spawns an invisible minecart if the player eats the apple while standing on tracks.  This allows the player to ride the tracks as if in a minecart."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleminecart",
+			"text": ""
+		}
+	]
+}

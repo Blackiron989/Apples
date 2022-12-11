@@ -1,0 +1,21 @@
+{
+	"name": "The Ultimate Apple",
+	"icon": "apples:itemappleultimate",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleinactiveultimate",
+			"text": "The Inactive Ultimate Apple is used to create the Ultimate Apple.  When you eat the apple it will search your inventory for other apples and track them, once it has tracked every apple in the mod (excluding the enchanted variants) it will transform into the Ultimate Apple."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleinactiveultimate"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleultimate",
+			"text": "Refer to previous page for how to make this."
+		}
+	]
+}

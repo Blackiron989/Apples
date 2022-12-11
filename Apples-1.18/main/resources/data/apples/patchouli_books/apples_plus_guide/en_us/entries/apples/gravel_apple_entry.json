@@ -1,0 +1,18 @@
+{
+	"name": "Gravel Apple",
+	"icon": "apples:itemapplegravel",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplegravel",
+			"link_recipe": true,
+			"text": "The Gravel Apple apples the sinking effect."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplegravel",
+			"text": ""
+		}
+	]
+}

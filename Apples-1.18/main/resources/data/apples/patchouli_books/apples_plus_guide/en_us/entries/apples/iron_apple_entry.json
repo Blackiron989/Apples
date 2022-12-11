@@ -1,0 +1,18 @@
+{
+	"name": "Iron Apple",
+	"icon": "apples:itemappleiron",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleiron",
+			"link_recipe": true,
+			"text": "The Iron Apple applies protection."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleiron",
+			"text": ""
+		}
+	]
+}

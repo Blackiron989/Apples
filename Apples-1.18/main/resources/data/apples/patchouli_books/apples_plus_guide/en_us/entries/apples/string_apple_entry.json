@@ -1,0 +1,18 @@
+{
+	"name": "String Apple",
+	"icon": "apples:itemapplestring",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplestring",
+			"link_recipe": true,
+			"text": "The String Apple applies dolphins grace (temporary effect)."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplestring",
+			"text": ""
+		}
+	]
+}

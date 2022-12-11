@@ -1,0 +1,17 @@
+{
+	"name": "Green Apple",
+	"icon": "apples:itemapplegreen",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplegreen",
+			"link_recipe": true,
+			"text": "The Green Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Green Apple can be purchased from a wondering trader."
+		}
+	]
+}

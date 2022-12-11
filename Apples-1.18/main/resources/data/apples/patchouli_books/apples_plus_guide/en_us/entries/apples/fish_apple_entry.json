@@ -1,0 +1,29 @@
+{
+	"name": "Fish Apple",
+	"icon": "apples:itemapplefish",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplefish",
+			"link_recipe": true,
+			"text": "The Fish Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplefish",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplefishcooked",
+			"link_recipe": true,
+			"text": "The Cooked Fish Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplefishcooked",
+			"text": "The Cooked Fish Apple can also be made from cooking the Fish Apple."
+		}
+	]
+}

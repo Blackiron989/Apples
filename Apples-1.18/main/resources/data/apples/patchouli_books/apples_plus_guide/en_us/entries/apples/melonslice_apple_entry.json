@@ -1,0 +1,18 @@
+{
+	"name": "Melon Slice Apple",
+	"icon": "apples:itemapplemelonslice",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplemelonslice",
+			"link_recipe": true,
+			"text": "The Melon Slice Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplemelonslice",
+			"text": ""
+		}
+	]
+}

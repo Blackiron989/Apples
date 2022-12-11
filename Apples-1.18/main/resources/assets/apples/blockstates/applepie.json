@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "apples:block/applepie"
+    },
+    "bites=1": {
+      "model": "apples:block/applepie_slice1"
+    },
+    "bites=2": {
+      "model": "apples:block/applepie_slice2"
+    },
+    "bites=3": {
+      "model": "apples:block/applepie_slice3"
+    },
+    "bites=4": {
+      "model": "apples:block/applepie_slice4"
+    },
+    "bites=5": {
+      "model": "apples:block/applepie_slice5"
+    },
+    "bites=6": {
+      "model": "apples:block/applepie_slice6"
+    }
+  }
+}

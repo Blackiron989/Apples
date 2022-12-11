@@ -1,0 +1,18 @@
+{
+	"name": "Nether Brick Apple",
+	"icon": "apples:itemapplenetherbrick",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplenetherbrick",
+			"link_recipe": true,
+			"text": "The Nether Brick Apple gets the location of the nearest fortress... if used in the nether."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplenetherbrick",
+			"text": ""
+		}
+	]
+}

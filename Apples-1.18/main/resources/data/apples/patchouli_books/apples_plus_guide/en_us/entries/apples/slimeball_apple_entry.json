@@ -1,0 +1,18 @@
+{
+	"name": "Slimeball Apple",
+	"icon": "apples:itemappleslimeball",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleslimeball",
+			"link_recipe": true,
+			"text": "The Slimeball Apple makes the player bouncy."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleslimeball",
+			"text": ""
+		}
+	]
+}

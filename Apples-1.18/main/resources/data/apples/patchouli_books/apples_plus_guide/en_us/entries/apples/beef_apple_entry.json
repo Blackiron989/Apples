@@ -1,0 +1,29 @@
+{
+	"name": "Beef Apple",
+	"icon": "apples:itemapplebeefraw",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebeefraw",
+			"link_recipe": true,
+			"text": "The Beef Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebeefraw",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebeef",
+			"link_recipe": true,
+			"text": "The Steak Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebeef",
+			"text": "The Steak Apple can also be made from cooking the Beef Apple."
+		}
+	]
+}

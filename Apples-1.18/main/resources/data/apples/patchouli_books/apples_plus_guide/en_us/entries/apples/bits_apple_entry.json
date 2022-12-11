@@ -1,0 +1,22 @@
+{
+	"name": "Bit Apples",
+	"icon": "apples:itemapple8bit",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapple8bit",
+			"text": "The Bit Apples do not have effects; they are simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapple4bit",
+			"recipe2": "apples:itemapple8bit"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapple32bit",
+			"recipe2": "apples:itemapple64bit"
+		}
+	]
+}

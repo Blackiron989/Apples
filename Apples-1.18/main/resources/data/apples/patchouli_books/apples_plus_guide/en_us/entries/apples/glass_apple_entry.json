@@ -1,0 +1,18 @@
+{
+	"name": "Glass Apple",
+	"icon": "apples:itemappleinvisible",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleinvisible",
+			"link_recipe": true,
+			"text": "The Glass Apple applies invisibility."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleglass",
+			"text": ""
+		}
+	]
+}

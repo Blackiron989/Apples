@@ -1,0 +1,17 @@
+{
+	"name": "Creeper Apple",
+	"icon": "apples:itemapplecreeper",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecreeper",
+			"link_recipe": true,
+			"text": "The Creeper Apple spawns a creeper and sets the player to riding it."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Creeper Apple can be found in loot chests."
+		}
+	]
+}

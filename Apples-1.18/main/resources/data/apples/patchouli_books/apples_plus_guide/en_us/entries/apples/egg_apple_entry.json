@@ -1,0 +1,18 @@
+{
+	"name": "Egg Apple",
+	"icon": "apples:itemappleegg",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleegg",
+			"link_recipe": true,
+			"text": "The Egg Apple fires an egg when eaten."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleegg",
+			"text": ""
+		}
+	]
+}

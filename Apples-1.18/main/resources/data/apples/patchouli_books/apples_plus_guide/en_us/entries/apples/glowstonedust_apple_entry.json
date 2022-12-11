@@ -1,0 +1,29 @@
+{
+	"name": "Glowstone Dust Apple",
+	"icon": "apples:itemappleglowstonedust",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleglowstonedust",
+			"link_recipe": true,
+			"text": "The Glowstone Dust Apple applies glowing."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleglowstonedust",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemenchantedappleglowstone",
+			"link_recipe": true,
+			"text": "The Enchanted Glowstone Dust Apple converts potions in the inventory to their stronger variant if possible."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemenchantedappleglowstone",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Stick Apple",
+	"icon": "apples:itemapplestick",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplestick",
+			"link_recipe": true,
+			"text": "The Stick Apple applies jump boost."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplestick",
+			"text": ""
+		}
+	]
+}

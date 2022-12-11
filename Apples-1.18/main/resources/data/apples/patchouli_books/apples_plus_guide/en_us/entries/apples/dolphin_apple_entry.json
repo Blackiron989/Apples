@@ -1,0 +1,17 @@
+{
+	"name": "Dolphin Apple",
+	"icon": "apples:itemappledolphin",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappledolphin",
+			"link_recipe": true,
+			"text": "The Dolphin Apple applies dolphins grace."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Dolphin Apple can be found in loot chests."
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Pumpkin Pie Apple",
+	"icon": "apples:itemapplepumpkinpie",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepumpkinpie",
+			"link_recipe": true,
+			"text": "The Pumpkin Pie Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepumpkinpie",
+			"text": ""
+		}
+	]
+}

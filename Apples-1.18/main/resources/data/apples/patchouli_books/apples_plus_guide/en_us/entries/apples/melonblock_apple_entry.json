@@ -1,0 +1,18 @@
+{
+	"name": "Melon Block Apple",
+	"icon": "apples:itemapplemelonblock",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplemelonblock",
+			"link_recipe": true,
+			"text": "The Melon Block Apple puts a melon on the players head."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplemelonblock",
+			"text": ""
+		}
+	]
+}

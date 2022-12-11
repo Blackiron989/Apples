@@ -1,0 +1,18 @@
+{
+	"name": "Glistering Melon Apple",
+	"icon": "apples:itemapplespeckledmelon",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplespeckledmelon",
+			"link_recipe": true,
+			"text": "The Glistering Melon Apple applies regeneration."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplespeckledmelon",
+			"text": ""
+		}
+	]
+}

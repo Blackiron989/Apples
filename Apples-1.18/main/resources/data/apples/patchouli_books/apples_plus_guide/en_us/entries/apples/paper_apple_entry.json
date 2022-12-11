@@ -1,0 +1,18 @@
+{
+	"name": "Paper Apple",
+	"icon": "apples:itemapplepaper",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepaper",
+			"link_recipe": true,
+			"text": "The Paper Apple if renamed can be used to name creatures like a nametag."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepaper",
+			"text": ""
+		}
+	]
+}

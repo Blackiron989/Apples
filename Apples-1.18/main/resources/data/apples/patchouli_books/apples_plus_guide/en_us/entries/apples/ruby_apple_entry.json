@@ -1,0 +1,18 @@
+{
+	"name": "Ruby Apple",
+	"icon": "apples:itemappleruby",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleruby",
+			"link_recipe": true,
+			"text": "The Ruby Apple applies projectile damage resistance."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleruby",
+			"text": ""
+		}
+	]
+}

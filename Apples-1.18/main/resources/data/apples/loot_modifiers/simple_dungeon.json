@@ -1,0 +1,50 @@
+{
+	"conditions": [
+		{
+			"condition": "forge:loot_table_id",
+			"loot_table_id": "minecraft:chests/simple_dungeon"
+		}
+	],
+	"type": "apples:simple_dungeon",
+    "entries": [
+        {
+            "name": "apples:itemapplecursed",
+            "weight": 16
+        },
+		{
+            "name": "apples:itemappleloot",
+            "weight": 16
+        },
+		{
+            "name": "apples:itemappleheart",
+            "weight": 16
+        },
+		{
+            "name": "apples:itemapplesteve",
+            "weight": 10
+        },
+		{
+            "name": "apples:itemapplechain",
+            "weight": 10
+        },
+        {
+            "name": "apples:itemapplewitch",
+            "weight": 6
+        },
+		{
+            "name": "apples:itemapplebat",
+            "weight": 6
+		},
+		{
+			"name": "apples:itemapplebinding",
+            "weight": 6
+		},
+		{
+            "name": "apples:itemapplevanishing",
+            "weight": 6
+        },
+        {
+            "weight": 8
+        }
+    ]
+}

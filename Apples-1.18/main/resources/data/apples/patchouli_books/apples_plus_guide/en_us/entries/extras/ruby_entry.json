@@ -1,0 +1,18 @@
+{
+	"name": "Ruby",
+	"icon": "apples:itemruby",
+	"category": "apples:extras_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleapple",
+			"link_recipe": true,
+			"text": "Ruby is used to craft ruby apples and the Bottle Of Magic."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemruby",
+			"text": "Activating a placed block of diamond with a Bottle Of Magic will convert it into a ruby block (and vice versa)."
+		}
+	]
+}

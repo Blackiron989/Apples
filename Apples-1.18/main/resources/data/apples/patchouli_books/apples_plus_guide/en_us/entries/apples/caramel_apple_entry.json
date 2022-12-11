@@ -1,0 +1,17 @@
+{
+	"name": "Caramel Apple",
+	"icon": "apples:itemapplecaramel",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecaramel",
+			"text": "The Caramel Apple applies speed."
+		},
+		{
+			"type": "patchouli:smelting",
+			"recipe": "apples:itemapplecaramel_from_smelting",
+			"text": ""
+		}
+	]
+}

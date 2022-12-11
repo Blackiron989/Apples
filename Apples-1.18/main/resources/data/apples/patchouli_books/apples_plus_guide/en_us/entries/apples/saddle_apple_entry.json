@@ -1,0 +1,18 @@
+{
+	"name": "Saddle Apple",
+	"icon": "apples:itemapplesaddle",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplesaddle",
+			"link_recipe": true,
+			"text": "The Saddle Apple applies speed to the entity the player is riding only if eaten while riding said entity."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplesaddle",
+			"text": ""
+		}
+	]
+}

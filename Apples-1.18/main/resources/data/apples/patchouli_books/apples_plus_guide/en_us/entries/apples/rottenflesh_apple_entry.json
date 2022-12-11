@@ -1,0 +1,18 @@
+{
+	"name": "Rotten Flesh Apple",
+	"icon": "apples:itemapplerottenflesh",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplerottenflesh",
+			"link_recipe": true,
+			"text": "The Rotten Flesh Apple applies hunger."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplerottenflesh",
+			"text": ""
+		}
+	]
+}

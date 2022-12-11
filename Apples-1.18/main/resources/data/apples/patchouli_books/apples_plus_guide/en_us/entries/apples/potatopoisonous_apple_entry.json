@@ -1,0 +1,18 @@
+{
+	"name": "Poisonous Potato Apple",
+	"icon": "apples:itemapplepotatopoisonous",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepotatopoisonous",
+			"link_recipe": true,
+			"text": "The Poisonous Potato Apple applies poison."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepotatopoisonous",
+			"text": ""
+		}
+	]
+}

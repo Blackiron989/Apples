@@ -1,0 +1,18 @@
+{
+	"name": "Spider Eye Apple",
+	"icon": "apples:itemapplespidereye",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplespidereye",
+			"link_recipe": true,
+			"text": "The Spider Eye Apple applies poison."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplespidereye",
+			"text": ""
+		}
+	]
+}

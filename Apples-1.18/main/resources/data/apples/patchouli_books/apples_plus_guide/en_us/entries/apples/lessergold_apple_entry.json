@@ -1,0 +1,18 @@
+{
+	"name": "Lesser Gold Apple",
+	"icon": "apples:itemapplegoldnugget",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplegoldnugget",
+			"link_recipe": true,
+			"text": "The Lesser Gold Apple applies regeneration and absorption."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplegoldnugget",
+			"text": ""
+		}
+	]
+}

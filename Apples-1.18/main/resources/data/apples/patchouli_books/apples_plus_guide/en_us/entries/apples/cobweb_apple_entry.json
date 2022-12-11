@@ -1,0 +1,29 @@
+{
+	"name": "Cobweb Apple",
+	"icon": "apples:itemapplecobweb",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecobweb",
+			"link_recipe": true,
+			"text": "The Cobweb Apple places a cobweb at the players feet and applies slowness."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplecobweb",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemenchantedapplecobweb",
+			"link_recipe": true,
+			"text": "The Enchanted Cobweb Apple applies slowness to all nearby players excluding the user."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemenchantedapplecobweb",
+			"text": ""
+		}
+	]
+}

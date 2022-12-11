@@ -1,0 +1,18 @@
+{
+	"name": "Cake Apple",
+	"icon": "apples:itemapplecake",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecake",
+			"link_recipe": true,
+			"text": "The Cake Apple places special cakes around the player randomly."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplecake",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"name": "Feather Apple",
+	"icon": "apples:itemapplefeather",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplefeather",
+			"link_recipe": true,
+			"text": "The Feather Apple applies slow fall."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplefeather",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemenchantedapplefeather",
+			"link_recipe": true,
+			"text": "The Enchanted Feather Apple applies slowfall and boosts the player rapidly upwards (only applies when the player does not have slowfall)."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemenchantedapplefeather",
+			"text": ""
+		}
+	]
+}

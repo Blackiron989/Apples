@@ -1,0 +1,29 @@
+{
+	"name": "Porkchop Apple",
+	"icon": "apples:itemappleporkchopraw",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleporkchopraw",
+			"link_recipe": true,
+			"text": "The Porkchop Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleporkchopraw",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleporkchopcooked",
+			"link_recipe": true,
+			"text": "The Cooked Porkchop Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleporkchopcooked",
+			"text": "The Cooked Porkchop Apple can also be made from cooking the Porkchop Apple."
+		}
+	]
+}

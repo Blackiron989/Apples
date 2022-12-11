@@ -1,0 +1,18 @@
+{
+	"name": "Candy Cane Apple",
+	"icon": "apples:itemapplecandycane",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecandycane",
+			"link_recipe": true,
+			"text": "The Candy Cane Apple applies speed."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplecandycane",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Apple Sauce",
+	"icon": "apples:itemapplesauce",
+	"category": "apples:extras_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplesauce",
+			"link_recipe": true,
+			"text": "A bowl of Apple Sauce."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplesauce",
+			"text": ""
+		}
+	]
+}

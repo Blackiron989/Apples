@@ -1,0 +1,17 @@
+{
+	"name": "Heart Apple",
+	"icon": "apples:itemappleheart",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleheart",
+			"link_recipe": true,
+			"text": "The Heart Apple applies absorption."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Heart Apple can be found in loot chests."
+		}
+	]
+}

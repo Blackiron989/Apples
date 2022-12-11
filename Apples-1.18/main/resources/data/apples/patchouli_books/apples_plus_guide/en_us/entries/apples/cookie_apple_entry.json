@@ -1,0 +1,18 @@
+{
+	"name": "Cookie Apple",
+	"icon": "apples:itemapplecookie",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecookie",
+			"link_recipe": true,
+			"text": "The Cookie Apple applies saturation."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplecookie",
+			"text": ""
+		}
+	]
+}

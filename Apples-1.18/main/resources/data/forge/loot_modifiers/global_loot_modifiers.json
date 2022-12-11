@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"entries": [
+		"apples:abandoned_mineshaft",
+		"apples:buried_treasure",		
+		"apples:nether_bridge",
+		"apples:simple_dungeon",
+		"apples:woodland_mansion"
+	]
+}

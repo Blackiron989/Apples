@@ -1,0 +1,18 @@
+{
+	"name": "Bedrock Apple",
+	"icon": "apples:itemapplebedrock",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebedrock",
+			"link_recipe": true,
+			"text": "The Bedrock Apple applies haste."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebedrock",
+			"text": ""
+		}
+	]
+}

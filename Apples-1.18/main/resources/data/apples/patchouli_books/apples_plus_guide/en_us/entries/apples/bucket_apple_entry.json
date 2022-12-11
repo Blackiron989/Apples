@@ -1,0 +1,18 @@
+{
+	"name": "Bucket Apple",
+	"icon": "apples:itemapplebucket",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebucket",
+			"link_recipe": true,
+			"text": "The Bucket Apple can be filled like a normal bucket (Vanilla fluids only!)"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebucket",
+			"text": ""
+		}
+	]
+}

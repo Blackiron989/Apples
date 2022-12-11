@@ -1,0 +1,18 @@
+{
+	"name": "Sugar Apple",
+	"icon": "apples:itemapplesugar",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplesugar",
+			"link_recipe": true,
+			"text": "The Sugar Apple applies speed."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplesugar",
+			"text": ""
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"name": "Pumpkin Apple",
+	"icon": "apples:itemapplepumpkin",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepumpkin",
+			"link_recipe": true,
+			"text": "The Pumpkin Apple applies an effect the prevents endermen from targeting the player when looked at."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepumpkin",
+			"text": ""
+		}
+	]
+}

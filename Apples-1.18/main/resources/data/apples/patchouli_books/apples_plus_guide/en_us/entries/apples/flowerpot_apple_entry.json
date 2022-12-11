@@ -1,0 +1,18 @@
+{
+	"name": "Flower Pot Apple",
+	"icon": "apples:itemappleflowerpot",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleflowerpot",
+			"link_recipe": true,
+			"text": "The Flower Pot Apple plants random flowers around the player."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleflowerpot",
+			"text": ""
+		}
+	]
+}

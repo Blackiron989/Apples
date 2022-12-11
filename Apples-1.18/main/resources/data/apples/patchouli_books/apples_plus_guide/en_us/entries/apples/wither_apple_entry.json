@@ -1,0 +1,29 @@
+{
+	"name": "Wither Apple",
+	"icon": "apples:itemapplewitherskull",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplewitherskull",
+			"link_recipe": true,
+			"text": "The Wither Apple applies wither immunity.  Can sometimes spawn wither skeletons."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplewitherskull",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemenchantedapplewitherskull",
+			"link_recipe": true,
+			"text": "The Enchanted Wither Apple spawns withers."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemenchantedapplewitherskull",
+			"text": ""
+		}
+	]
+}

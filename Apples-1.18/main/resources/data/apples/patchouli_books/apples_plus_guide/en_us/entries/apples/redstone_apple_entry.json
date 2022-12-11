@@ -1,0 +1,29 @@
+{
+	"name": "Redstone Apple",
+	"icon": "apples:itemappleredstone",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleredstone",
+			"link_recipe": true,
+			"text": "The Redstone Apple does nothing."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleredstone",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemenchantedappleredstone",
+			"link_recipe": true,
+			"text": "The Enchanted Redstone Apple converts potions in the inventory to their longer variant if possible."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemenchantedappleredstone",
+			"text": ""
+		}
+	]
+}

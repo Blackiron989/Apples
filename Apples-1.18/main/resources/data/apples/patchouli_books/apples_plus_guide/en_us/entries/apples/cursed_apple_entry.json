@@ -1,0 +1,17 @@
+{
+	"name": "Cursed Apple",
+	"icon": "apples:itemapplecursed",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplecursed",
+			"link_recipe": true,
+			"text": "The Cursed Apple triggers an assortment of negative effects including spawning a random bad apple."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Cursed Apple can be found in loot chests."
+		}
+	]
+}

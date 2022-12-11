@@ -1,0 +1,29 @@
+{
+	"name": "Chicken Apple",
+	"icon": "apples:itemapplechicken",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplechicken",
+			"link_recipe": true,
+			"text": "The Chicken Apple has a chance to apply poison."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplechicken",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplechickencooked",
+			"link_recipe": true,
+			"text": "The Cooked Chicken Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplechickencooked",
+			"text": "The Cooked Chicken Apple can also be made from cooking the Chicken Apple."
+		}
+	]
+}

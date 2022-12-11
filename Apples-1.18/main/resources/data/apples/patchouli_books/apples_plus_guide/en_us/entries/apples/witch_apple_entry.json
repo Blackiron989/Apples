@@ -1,0 +1,17 @@
+{
+	"name": "Witch Apple",
+	"icon": "apples:itemapplewitch",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplewitch",
+			"link_recipe": true,
+			"text": "The Witch Apple applies an effect that throws potions at monsters and heals the player."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "The Witch Apple can be found in loot chests."
+		}
+	]
+}

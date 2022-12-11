@@ -1,0 +1,29 @@
+{
+	"name": "Potato Apple",
+	"icon": "apples:itemapplepotatoraw",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepotatoraw",
+			"link_recipe": true,
+			"text": "The Potato Apple plants a potato farm around the player."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepotato",
+			"text": ""
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplepotatobaked",
+			"link_recipe": true,
+			"text": "The Baked Potato Apple does not have an effect; it is simply food."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplepotatobaked",
+			"text": "The Baked Potato Apple can also be made from cooking the Potato Apple."
+		}
+	]
+}

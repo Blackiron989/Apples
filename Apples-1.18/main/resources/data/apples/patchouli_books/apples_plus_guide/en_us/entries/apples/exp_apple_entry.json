@@ -1,0 +1,18 @@
+{
+	"name": "Experience Apple",
+	"icon": "apples:itemappleexp",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemappleexp",
+			"link_recipe": true,
+			"text": "The Experience Apple gives the player some xp."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemappleexp",
+			"text": ""
+		}
+	]
+}

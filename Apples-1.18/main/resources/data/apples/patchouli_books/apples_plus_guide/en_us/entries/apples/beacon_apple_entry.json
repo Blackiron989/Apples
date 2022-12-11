@@ -1,0 +1,18 @@
+{
+	"name": "Beacon Apple",
+	"icon": "apples:itemapplebeacon",
+	"category": "apples:apples_category",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "apples:itemapplebeacon",
+			"link_recipe": true,
+			"text": "The Beacon Apple turns the player into a beacon."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "apples:itemapplebeacon",
+			"text": ""
+		}
+	]
+}
